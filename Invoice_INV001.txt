@@ -1,0 +1,12 @@
+VEHICLE SERVICE INVOICE
+Invoice ID: INV001
+Customer Name: Rahul sharma
+Vehicle Number: RJ02AB1234
+
+Service Details:
+general service : Rs. 1500.00
+engine oil : Rs. 1200.00
+Labour Charges: Rs. 500.00
+Subtotal: Rs. 3200.00
+GST: Rs. 576.00
+Grand Total: Rs. 3776.00
